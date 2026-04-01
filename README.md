@@ -9,10 +9,10 @@ This is experimentation zone to try
 - etc
 
 # SETUP
-Steps followed during project development
-python -m venv .venv
-venv/Scripts/Activate
-venv\Scripts\pip.exe install -r .\requirements.txt
+- Steps followed during project development
+- python -m venv .venv
+- venv/Scripts/Activate
+- venv\Scripts\pip.exe install -r .\requirements.txt
 
 # RUN
 adk web
