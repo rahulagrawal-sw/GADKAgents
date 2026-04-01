@@ -2,3 +2,4 @@ python-dotenv
 asyncio
 
 google-adk
+google-genai
