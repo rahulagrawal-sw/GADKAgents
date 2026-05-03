@@ -15,7 +15,8 @@ This is experimentation zone to try
 - venv\Scripts\pip.exe install -r .\requirements.txt
 
 # RUN
-adk web
+Method 1 : adk web
+Method 2 : PS C:\ML\GADKAgents> python.exe .\_2_agent_with_runner\agent.py
 
 
 # MISC
